@@ -7,4 +7,4 @@ Libraries used
 
 Grove Beginner Kit for Arduino
 
-This example shows how to use the 3 axis accelerometer
+This example shows how to use the 3 axis accelerometer and display results on OLED display.
